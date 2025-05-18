@@ -1,8 +1,8 @@
-Predicting the Comeback: Diabetes and Hospital Readmissions
+#Predicting the Comeback: Diabetes and Hospital Readmissions
 Authors: Maya Shah and Jessica Phan
 Dataset: UCI Diabetes 130-US hospitals for years 1999–2008
 
-Overview
+#Overview
 This project explores machine learning approaches to predict the likelihood of hospital readmission for patients with diabetes. In 2011 alone, over $41 billion was spent by American hospitals on diabetic patient readmissions within 30 days. By identifying key predictive factors, we aim to help reduce healthcare costs and improve the quality of care.
 
 The model analyzes a variety of features, including:
